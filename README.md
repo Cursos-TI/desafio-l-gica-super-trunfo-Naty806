@@ -1,4 +1,15 @@
-# ⚠️ Importante!!!
+#include<Studio.h>
+bit main(){
+int cidade a=8537 hab;
+int cidade b=16334 hab;
+if("cidade a> cidade b")
+printf("cidade a vencedor/n");
+else 
+printf("cidade b vencedor/n");
+
+
+}
+
 Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vontade para começar pelo desafio que mais lhe interessa.
 
 # Desafio Super Trunfo - Países - Comparação das Cartas
